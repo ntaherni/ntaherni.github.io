@@ -1,2 +1,1 @@
-# PagesProject
-For Github Pages project and Labs CSE 110.
+Nicholas Tahernia's User Page
