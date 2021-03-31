@@ -11,6 +11,14 @@ My favorite classes so far at UCSD have been:
 - *CSE 101*
 - CSE 130
 - CSE 105
+- ~~CSE 110~~ (hopefully!)
 - MATH 184
 - MATH 103B
+
+Goals for the class:
+- [X] Make first website.
+- [ ] Find group.
+- [ ] Establish project.
+- [ ] Finish project.
+- [ ] Have fun!
 
