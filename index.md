@@ -1,4 +1,4 @@
-# Welcome to my webpage, my name is Nico (Nicholas) Tahernia.
+# Welcome to my webpage, my name is Nicholas (Nico) Tahernia.
 
 ![Photo of me](head-shot.jpeg)
 
@@ -22,3 +22,8 @@ Goals for the class:
 - [ ] Finish project.
 - [ ] Have fun!
 
+In the words of Thomas Powell:
+> Everyone writes bad code.
+
+- I hope to be able to improve my own codewriting skills this quarter.
+- I also hope to learn more about the different JavaScript frameworks and the extent of what I can do with different `<var>` types. I've done a bit in the past but not really anything in depth.
