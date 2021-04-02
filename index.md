@@ -7,13 +7,13 @@
 I have previously worked for [Daybreak Game Company](https://www.daybreakgames.com/home) and [Perspecta](https://perspecta.com/) and now am an incoming ***software engineer intern*** for [Amazon](https://www.amazon.com/).
 
 My favorite classes so far at UCSD have been:
-- *CSE 100*
-- *CSE 101*
-- CSE 130
-- CSE 105
-- ~~CSE 110~~ (hopefully!)
-- MATH 184
-- MATH 103B
+1. *CSE 100*
+2. *CSE 101*
+3. CSE 130
+4. CSE 105
+5. ~~CSE 110~~ (hopefully!)
+6. MATH 184
+7. MATH 103B
 
 Goals for the class:
 - [X] Make first website.
