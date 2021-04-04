@@ -2,7 +2,7 @@
 
 ![Photo of me](head-shot.jpeg)
 
-## I am a third year Mathematics - Computer Science student. 
+#### I am a third year Mathematics - Computer Science student. 
 
 About Me
 ----------------------
