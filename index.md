@@ -35,3 +35,4 @@ In the words of Thomas Powell:
 - I also hope to learn more about the different JavaScript frameworks and the extent of what I can do with different `<var>` types. I've done a bit in the past but not really anything in depth. (i.e. I don't mean just `var x = 1;` or easily interpreted statements like that)
 
 [README asociated with this project.](README.md)
+[Screenshots associated with this project.](/screenshots)
