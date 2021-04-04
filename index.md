@@ -2,9 +2,15 @@
 
 ![Photo of me](head-shot.jpeg)
 
+About Me
+----------------------
+
 ## I am a third year Mathematics - Computer Science student. 
 
 I have previously worked for [Daybreak Game Company](https://www.daybreakgames.com/home) and [Perspecta](https://perspecta.com/) and now am an incoming ***software engineer intern*** for [Amazon](https://www.amazon.com/).
+
+UCSD and CSE 110 Experience
+----------------------
 
 My favorite classes so far at UCSD have been:
 1. *CSE 100*
@@ -26,4 +32,4 @@ In the words of Thomas Powell:
 > Everyone writes bad code.
 
 - I hope to be able to improve my own codewriting skills this quarter.
-- I also hope to learn more about the different JavaScript frameworks and the extent of what I can do with different `<var>` types. I've done a bit in the past but not really anything in depth.
+- I also hope to learn more about the different JavaScript frameworks and the extent of what I can do with different `<var>` types. I've done a bit in the past but not really anything in depth. (i.e. I don't mean just `var x = 1;` or easily interpreted statements like that)
